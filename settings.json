@@ -1,0 +1,16 @@
+// 将设置放入此文件中以覆盖默认设置
+{
+    "editor.fontFamily": "Source Code Pro",
+
+    "editor.fontSize": 15,
+    
+    "editor.mouseWheelZoom": true,
+
+    "editor.renderIndentGuides": true,
+
+    "terminal.integrated.shellArgs.osx": [ "-l" ],
+
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\sysnative\\WindowsPowerShell\\v1.0\\powershell.exe",
+
+    "editor.tabCompletion": true
+}

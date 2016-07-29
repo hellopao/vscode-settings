@@ -1,0 +1,43 @@
+// 将键绑定放入此文件中以覆盖默认值
+[
+    {
+        "key": "f8",
+        "command": "workbench.action.debug.continue",
+        "when": "inDebugMode"
+    },
+    {
+        "key": "f6",
+        "command": "workbench.action.debug.stop",
+        "when": "inDebugMode"
+    },
+    {
+        "key": "f5",
+        "command": "workbench.action.debug.restart",
+        "when": "inDebugMode"
+    },
+    {
+        "key": "ctrl+f12",
+        "command": "workbench.action.toggleDevTools"
+    },
+    {
+        "key": "ctrl+s",
+        "command": "workbench.action.tasks.build",
+        "when": "editorTextFocus && editorLangId == 'typescript'"
+    },
+    {
+        "key": "f4",
+        "command": "workbench.action.navigateBack"
+    },
+    {
+        "key": "ctrl+0",
+        "command": "workbench.action.zoomReset"
+    },
+    {
+        "key": "alt+q",
+        "command": "workbench.action.terminal.toggleTerminal"
+    },
+    {
+        "key": "alt+a",
+        "command": "workbench.debug.action.toggleRepl"
+    }
+]
