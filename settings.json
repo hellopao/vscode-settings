@@ -10,7 +10,6 @@
 
     "terminal.integrated.shellArgs.osx": [ "-l" ],
 
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\sysnative\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "terminal.integrated.shell.windows": "\\Program Files\\Git\\bin\\bash.exe"
 
-    "editor.tabCompletion": true
 }
